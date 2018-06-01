@@ -5,7 +5,7 @@ subtitle: Assistant Professor, Department of Civil Engineering, The University o
 meta-title: "Hi, I'm Abdul"
 use-site-title: true
 bigimg:
-  - /img/uah_front_entrance: UAH Campus (PC:UAH website)
+  - /img/uah_front_entrance.jpg: UAH Campus (PC:UAH website)
   - /img/Aurora.jpg: Aurora Lights PC Xudong Zhao
   
 ---
