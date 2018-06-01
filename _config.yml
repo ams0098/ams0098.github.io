@@ -46,7 +46,7 @@ title-img: "/img/UAH.png"
 # By default, the navigation bar and footer have a light gray background, and the main page
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
-navbar-col: "#ff0c5a"
+navbar-col: "orange"
 # navbar-img: "/img/bgimage.png"
 footer-col: "orange"
 # purple: #ff0c5a
@@ -59,8 +59,8 @@ footer-col: "orange"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: rk Mazumder
-  email: "rkmazumder@gmail.com"
+  name: ams
+  email: "ams0098@uah.edu"
   facebook: yourname  # eg. daattali
   github: rkmazumder    # eg. daattali
   twitter: rkmazumder  # eg. daattali
@@ -73,12 +73,12 @@ author:
   instagram: yourname # eg. daattali
   youtube: yourlink   # eg. user/daattali or channel/daattali
   spotify: yourname   # eg. daattali
-  telephone: +12168552015   # eg. +14159998888
+  telephone: +12246006452   # eg. +14159998888
   steam: yourname     # eg. daattali
   twitch: yourname    # eg. daattali
   yelp: yourname      # eg. daattali
   orcid: "https://orcid.org/0000-0002-9589-4654"
-  googlescholar: "https://scholar.google.com/citations?user=2_1BBHYAAAAJ&hl=en"
+  googlescholar: "https://scholar.google.com/citations?user=ImL1ifMAAAAJ&hl=en&oi=ao"
 
 
 # Select which links to show in the footer
