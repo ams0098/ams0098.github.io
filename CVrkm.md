@@ -11,12 +11,12 @@ title: Curriculum vitae
 > * Risk-based & multi-criteria decision making
 
 ### Awards and Fellowships
-* Michigan Tech Doctoral Finishing Fellowship, 2016
-* Outstanding Graduate Student Teaching Award, Michigan Tech, 2016
-* Shin Yang Best Graduate for Civil and Construction Award, Curtin University, 2011
-* Samling Best Student Award, Curtin University, 2011
-* Best Oral Presentation Award, Curtin University Technology, Science & Engineering Conference 2010
-* Curtin University Dean’s List Awards, 2009 & 2010
+> * Michigan Tech Doctoral Finishing Fellowship, 2016
+> * Outstanding Graduate Student Teaching Award, Michigan Tech, 2016
+> * Shin Yang Best Graduate for Civil and Construction Award, Curtin University, 2011
+> * Samling Best Student Award, Curtin University, 2011
+> * Best Oral Presentation Award, Curtin University Technology, Science & Engineering Conference 2010
+> * Curtin University Dean’s List Awards, 2009 & 2010
 
 ### Employment History
 * Research Associate      Sep. 2016 – present
