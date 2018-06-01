@@ -2,7 +2,7 @@
 layout: page
 subtitle: Affiliation
 ---
-Academic Webpage of Ram Krishna Mazumder.
+Academic Webpage of Abdullahi M. Salman.
 
 ### Affiliation
 Assistant Professor,
