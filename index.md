@@ -1,23 +1,14 @@
 ---
 layout: page
-title: Ram K Mazumder
-subtitle: PhD Candidate, Case Western Reserve University
-meta-title: "Hi, I'm RK"
+title: Abdullahi M. Salman
+subtitle: Assistant Professor, Department of Civil Engineering, The University of Alabama in Huntsville
+meta-title: "Hi, I'm Abdul"
 use-site-title: true
 bigimg:
-  - /img/rkk1.jpg: Case Western Reserve Uni Campus
+  - /img/uah_front_entrance: UAH Campus (PC:UAH website)
   - /img/Aurora.jpg: Aurora Lights PC Xudong Zhao
   
 ---
-
-## Other Affiliation
-Assistant Professor (on leave),
-Institute of Earthquake Engineering Research,
-Chittagong University of Engineering and Technology,
-Chittagong 4349, Bangladesh
-
-President, South Asian Chapter, Erasmus Mundus Students and Alumni Association
-
 
 ## Tweets
 <p>
